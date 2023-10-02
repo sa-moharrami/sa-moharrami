@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sa-moharrami
+- 👋 Hi, I’m Saeed Moharrami
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on smart grid
